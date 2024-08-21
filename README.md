@@ -1,3 +1,4 @@
-# rpi-and-pico-musings
+# RPI and Pico
 
-* First test with an ML8511 UV Sensor - simply loops and logs timestring,uvLevelVoltage,uvIntensity,internalTempVoltage,internalTemp micropython/ports/rp2/modules/main.py
+* Pico
+  * First test with an ML8511 UV Sensor - simply loops and logs timestring,uvLevelVoltage,uvIntensity,internalTempVoltage,internalTemp micropython/ports/rp2/modules/main.py
