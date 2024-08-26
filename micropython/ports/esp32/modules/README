@@ -1,0 +1,3 @@
+Use https://github.com/lemariva/micropython-camera-driver.git
+
+Use micropython v1.21.0 for esp32-cam
